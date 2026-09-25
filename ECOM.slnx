@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ECOM.API/ECOM.API.csproj" Id="136fdd85-c102-4e06-a8d3-eeedefeab42b" />
+  <Project Path="ECOM.Infrastructure/ECOM.Infrastructure.csproj" Id="e0bbb8a2-a088-4408-b71f-326011e06d03" />
 </Solution>
